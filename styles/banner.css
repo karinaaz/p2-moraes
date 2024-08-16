@@ -1,5 +1,6 @@
 .banner {
     background: var(--azul-degrade);
+    background-image: url(../img/banner.png);
     color: var(--branco);
     text-align: center;
     padding: 2.5em 2em;
