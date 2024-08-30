@@ -75,7 +75,11 @@
 }
 
 .botões__item {
-    /*margin: 0 0.5em;*/
+    margin: 0 0.5em;
+
+}
+
+.karina{
     width: 200px;
     height: 400px;
 }
