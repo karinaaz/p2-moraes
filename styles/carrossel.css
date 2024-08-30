@@ -49,6 +49,10 @@
     display: flex;
 }
 
+.descrição{
+    height: 100px;
+    width: 100px;
+}
 
 .descrição__titulo {
     color: var(--laranja);
